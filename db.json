@@ -1,0 +1,26 @@
+"verificatie": [	
+{
+
+"id": 0,
+"name": "#",
+"organization": "#",
+"url": "#",
+"description": "#",
+"tags": "#",
+"establishment": "#",
+"verificatieid": "#",
+"verificatiedb": "https://api.verificatie.nl/#",
+"address": [ 
+
+{
+"addressid": 0,
+"description": "#",
+"streetname": "#",
+"postcode": "#",
+"region": "#",
+"number": "#",
+"active": "#",
+  }
+ ]
+},
+
