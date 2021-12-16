@@ -1,2 +1,2 @@
-# stadapi
+# Stad API
 STAD API 
