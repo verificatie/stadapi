@@ -1,34 +1,34 @@
 # Stad API
 
-Welkom bij de **Stad API**! Deze API is ontwikkeld door de Nederlandse Verificatie App in samenwerking met de OS Autoriteit. Met de Stad API kun je eenvoudig toegang krijgen tot waardevolle informatie over steden en dorpen in Nederland.
+Welcome to the **Stad API**! This API is developed by the Dutch Verification App OS Authority in collaboration with the local authority. With the Stad API, you can easily access valuable information about cities and towns in the Netherlands.
 
-## Wat is Stad API?
+## What is Stad API?
 
-De Stad API biedt ontwikkelaars de mogelijkheid om gegevens op te vragen over verschillende steden en dorpen, zoals het aantal stoplichten, gebouwen en andere relevante informatie.
+The Stad API allows developers to retrieve data about various cities and towns, such as the number of traffic lights, buildings, and other relevant information.
 
-## Functionaliteiten
+## Features
 
-Met de Stad API kun je de volgende gegevens opvragen:
+With the Stad API, you can query the following data:
 
-- **Aantal stoplichten** in een specifieke stad of dorp.
-- **Aantal gebouwen** en hun kenmerken.
-- **Algemene informatie** over de stad of het dorp.
-- **Statistieken** en andere nuttige data met betrekking tot de regio.
+- **Number of traffic lights** in a specific city or town.
+- **Number of buildings** and their characteristics.
+- **General information** about the city or town.
+- **Statistics** and other useful data related to the area.
 
 ## API Endpoints
 
-Hieronder vind je een overzicht van de beschikbare endpoints:
+Here’s an overview of the available endpoints:
 
-| Endpoint                             | Beschrijving                            |
-|--------------------------------------|----------------------------------------|
-| `/api/steden`                        | Lijst van alle steden en dorpen        |
-| `/api/stad/{naam}`                  | Gegevens van een specifieke stad of dorp |
-| `/api/stad/{naam}/stoplichten`      | Aantal stoplichten in de stad of dorp  |
-| `/api/stad/{naam}/gebouwen`         | Informatie over gebouwen in de stad of dorp |
+| Endpoint                             | Description                              |
+|--------------------------------------|------------------------------------------|
+| `/api/steden`                       | List of all cities and towns             |
+| `/api/stad/{name}`                 | Data of a specific city or town          |
+| `/api/stad/{name}/stoplichten`      | Number of traffic lights in the city or town |
+| `/api/stad/{name}/gebouwen`       | Information about buildings in the city or town |
 
-## Voorbeeldgebruik
+## Example Usage
 
-### 1. Lijst van steden en dorpen
+### 1. List of cities and towns
 
 ```http
 GET /api/steden
