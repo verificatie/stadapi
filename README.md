@@ -1,6 +1,6 @@
 # Stad API
 
-Welcome to the **Stad API**! This API is developed by the Dutch Verification App OS Authority in collaboration with the local authority. With the Stad API, you can easily access valuable information about cities and towns in the Netherlands.
+Welcome to the **Stad API**! This API is developed by the Nederlandse Verificatie App | OS Autoriteit in collaboration with the local authority. With the Stad API, you can easily access valuable information about cities and towns in the Netherlands.
 
 ## What is Stad API?
 
