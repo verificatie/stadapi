@@ -29,6 +29,7 @@ Here’s an overview of the available endpoints:
 | `/api/stad/{name}`                 | Data of a specific city or town          |
 | `/api/stad/{name}/stoplichten`      | Number of traffic lights in the city or town |
 | `/api/stad/{name}/gebouwen`       | Information about buildings in the city or town |
+| `/api/postcodes`                  | Information about all nl postcodes              |
 
 ## Example Usage
 
